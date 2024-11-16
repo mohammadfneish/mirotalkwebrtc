@@ -98,7 +98,7 @@ function validateInput(...inputs) {
             return `⚠️ ${input.name} field empty!`;
         }
     }
-    if (signupRepeatPasswordIdInput && signupPasswordIdInput.value !== signupRepeatPasswordIdInput.value) {
+    if (inputs.length==4 && signupPasswordIdInput.value !== signupRepeatPasswordIdInput.value) {
         return '⚠️ Repeat password field does not match!';
     }
     return null;
