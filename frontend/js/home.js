@@ -54,7 +54,7 @@ loginBtn.addEventListener('click', handleLogin);
 signupBtn.addEventListener('click', handleSignup);
 
 supportBtn.onclick = () => {
-    window.open('https://codecanyon.net/user/miroslavpejic85', '_blank');
+    window.open('https://devlance.co', '_blank');
 };
 
 function handleLogin(e) {

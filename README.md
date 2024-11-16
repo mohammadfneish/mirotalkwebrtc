@@ -32,10 +32,10 @@ For demonstration purposes, below the credentials:
 
 | `MiroTalk`                                               | Description                                                                                                                                                                                |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🚀 [P2P](https://github.com/miroslavpejic85/mirotalk)    | `Peer to peer` real-time video conferences, optimized for small groups. Unlimited time, unlimited concurrent rooms each having 5-8 participants.                                           |
-| 🏆 [SFU](https://github.com/miroslavpejic85/mirotalksfu) | `Selective forwarding unit` real-time video conferences, optimized for large groups. Unlimited time, unlimited concurrent rooms each having 8+ participants.                               |
-| ✨ [C2C](https://github.com/miroslavpejic85/mirotalkc2c) | `Cam to cam` (peer to peer) real-time video conferences, optimized for one to one. Unlimited time ,unlimited concurrent rooms each having 2 participants.                                  |
-| 📡 [BRO](https://github.com/miroslavpejic85/mirotalkbro) | `Live broadcast` (peer to peer) live video, audio and screen stream to all connected users (viewers). Unlimited time, unlimited concurrent rooms each having a broadcast and many viewers. |
+| 🚀 [P2P](https://github.com/mohammadfneish/mirotalk)    | `Peer to peer` real-time video conferences, optimized for small groups. Unlimited time, unlimited concurrent rooms each having 5-8 participants.                                           |
+| 🏆 [SFU](https://github.com/mohammadfneish/mirotalksfu) | `Selective forwarding unit` real-time video conferences, optimized for large groups. Unlimited time, unlimited concurrent rooms each having 8+ participants.                               |
+| ✨ [C2C](https://github.com/mohammadfneish/mirotalkc2c) | `Cam to cam` (peer to peer) real-time video conferences, optimized for one to one. Unlimited time ,unlimited concurrent rooms each having 2 participants.                                  |
+| 📡 [BRO](https://github.com/mohammadfneish/mirotalkbro) | `Live broadcast` (peer to peer) live video, audio and screen stream to all connected users (viewers). Unlimited time, unlimited concurrent rooms each having a broadcast and many viewers. |
 
 <br>
 
@@ -62,7 +62,7 @@ Install [NodeJs](https://nodejs.org/en/blog/release/v18.16.0).
 $ node --version # v18.16.0
 
 # Clone the project repo
-$ git clone https://github.com/miroslavpejic85/mirotalkwebrtc.git
+$ git clone https://github.com/mohammadfneish/mirotalkwebrtc.git
 
 # Go to project dir
 $ cd mirotalkwebrtc
@@ -158,7 +158,7 @@ Install [docker](https://docs.docker.com/engine/install/) and [docker-compose](h
 
 ```bash
 # Clone the project repo
-$ git clone https://github.com/miroslavpejic85/mirotalkwebrtc.git
+$ git clone https://github.com/mohammadfneish/mirotalkwebrtc.git
 # Go to project dir
 $ cd mirotalkwebrtc
 # Copy .env.template to .env and edit it
@@ -224,7 +224,7 @@ To set up your own instance of `MiroTalk WEB` on a dedicated cloud server, pleas
 
 You can show your support for MiroTalk's projects by considering sponsorship. By sponsoring MiroTalk on platforms like GitHub Sponsors, you can contribute to our ongoing work and help us continue to develop and improve the projects.
 
-To support MiroTalk's projects, you can visit the sponsorship page at https://github.com/sponsors/miroslavpejic85. There, you will find the different sponsorship tiers available. You can choose a sponsorship level that suits your budget and desired level of support.
+To support MiroTalk's projects, you can visit the sponsorship page at https://github.com/sponsors/mohammadfneish. There, you will find the different sponsorship tiers available. You can choose a sponsorship level that suits your budget and desired level of support.
 
 Sponsoring MiroTalk's projects not only helps us financially but also encourages our motivation and dedication to creating valuable software. Your sponsorship can enable us to allocate more time and resources towards the projects, leading to further enhancements, bug fixes, and new features.
 
