@@ -20,7 +20,7 @@ package-lock.json
 
 # personal
 .env
-config.js
+#config.js
 docker-push.sh
 docker-compose.yml
 migrate-mongo-config.js
